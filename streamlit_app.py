@@ -7,7 +7,7 @@ from  PIL import Image
 import scipy as sp
 #Add a logo (optional) in the sidebar
 #logo = Image.open(r'D:\Projects\strnet\Insights_Bees_logo.png')
-st.sidebar.image(logo,  width=120)
+#st.sidebar.image(logo,  width=120)
 
 #Add the expander to provide some information about the app
 with st.sidebar.expander("About the App"):
