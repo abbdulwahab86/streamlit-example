@@ -2,3 +2,6 @@ altair
 pandas
 streamlit
 networkx
+plotly
+scipy
+Pillow
