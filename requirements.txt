@@ -1,7 +1,6 @@
-altair
-pandas
-streamlit
 networkx
 plotly
-scipy
-Pillow
+random
+mpl_toolkits
+matplotlib
+numpy
