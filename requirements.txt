@@ -1,7 +1,6 @@
 networkx
 plotly
 random2
-mpl_toolkits
 matplotlib
 numpy
 streamlit
