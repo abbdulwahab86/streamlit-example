@@ -4,3 +4,4 @@ random
 mpl_toolkits
 matplotlib
 numpy
+streamlit
