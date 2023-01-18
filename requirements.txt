@@ -1,6 +1,6 @@
 networkx
 plotly
-random
+random2
 mpl_toolkits
 matplotlib
 numpy
